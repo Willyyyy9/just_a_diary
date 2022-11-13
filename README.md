@@ -1,16 +1,30 @@
-# diary
+# Just a Diary
 
-A new Flutter project.
+Just a Diary is a mobile application that is safe enough to keep your secrets
 
-## Getting Started
+## Getting Started 
+Step 1: Download or clone this repository
+<pre>
+    <code>
+        git clone https://github.com/Willyyyy9/just_a_diary.git
+    </code>
+</pre>
+Step 2: Go to project root and execute the following command in console to get the required dependencies
+<pre>
+    <code>
+        flutter pub get
+    </code>
+</pre>
 
-This project is a starting point for a Flutter application.
+## Screenshots 📷
 
-A few resources to get you started if this is your first Flutter project:
+<img src="assets/images/WhatsApp%20Image%202022-11-12%20at%2002.06.31.jpeg" width="180"> | <img src="assets/images/WhatsApp%20Image%202022-11-12%20at%2002.06.31%20(1).jpeg" width="180">  |  <img src="assets/images/WhatsApp%20Image%202022-11-12%20at%2002.06.31%20(2).jpeg" width="180"> | <img src="assets/images/WhatsApp%20Image%202022-11-12%20at%2002.06.31%20(3).jpeg" width="180"> | <img src="assets/images/WhatsApp%20Image%202022-11-12%20at%2002.06.31%20(4).jpeg" width="180">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Technologies used in this project
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Object Box as the local database
+- Local Auth for authentication
+- Shared Preferences
+- Other third party libraries
+
+
